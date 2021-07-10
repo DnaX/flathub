@@ -28,14 +28,11 @@
       {
          "name":"upnp-router-control",
          "buildsystem":"autotools",
-         "config-opts":[
-            "--disable-libcurl"
-         ],
          "sources":[
             {
                "type":"git",
                "url":"https://git.launchpad.net/upnp-router-control",
-               "commit":"50e859f453b397b19924a53a6c3ee7d0a0f45f20"
+               "commit":"9a3a55e8c41c5f1d3503aeff0da28bb149476d94"
             }
          ],
          "modules":[
